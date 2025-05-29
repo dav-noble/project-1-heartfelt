@@ -14,10 +14,14 @@ Wireframe for Mobile:
 ![Wireframe for mobile](<assets/images/New Wireframe 1.png>)
 Wireframe for Tablet:
 ![Wireframe for tablet](<assets/images/New Wireframe 2.png>)
+Wireframe for Desktop:
+![Wireframe for desktop](<assets/images/New Wireframe 3.png>)
 
 ## Features
 
 ## Use of AI in this project
+
+The hero image for the website was created using Microsoft Pilot.
 
 ## Testing
 
