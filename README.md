@@ -10,6 +10,8 @@ Heartfelt provides visitors with information on diversity and inclusion in the w
 
 ## Wireframes
 
+![Wireframe for mobile](<assets/images/New Wireframe 1.png>)
+
 ## Features
 
 ## Use of AI in this project
