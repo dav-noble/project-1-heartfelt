@@ -28,8 +28,14 @@ main {
     padding-top: 4rem;
 }
 
-h2 {
+.banner-left {
     background-image: linear-gradient(to right, blue, rgb(242, 246, 253));
     color: white;
     padding-left: 1rem;
+}
+
+.banner-right {
+    background-image: linear-gradient(to left, blue, rgb(242, 246, 253));
+    color: white;
+    padding-right: 1rem;
 }
