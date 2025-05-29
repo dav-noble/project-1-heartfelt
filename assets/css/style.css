@@ -1,12 +1,25 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
 .hero {
     background: url("../images/hero1.png") center center/cover no-repeat;
     min-height: 350px;
+    max-width: 1320px;
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-grow: 1;
 }
 
 .hero-text-1,
 .hero-text-2 {
     text-shadow: 0 2px 8px rgba(0, 0, 0, 1);
+}
+
+main {
+    background-color: rgb(250, 243, 231);
 }
