@@ -10,12 +10,11 @@ Heartfelt provides visitors with information on diversity and inclusion in the w
 
 ## Wireframes
 
-Wireframe for Mobile:
-![Wireframe for mobile](<assets/images/New Wireframe 1.png>)
-Wireframe for Tablet:
-![Wireframe for tablet](<assets/images/New Wireframe 2.png>)
-Wireframe for Desktop:
-![Wireframe for desktop](<assets/images/New Wireframe 3.png>)
+[Wireframe for mobile](/assets/images/mobile-wireframe.png)
+
+[Wireframe for tablet](/assets/images/tablet-wireframe.png)
+
+[Wireframe for desktop](/assets/images/desktop-wireframe.png)
 
 ## Features
 
