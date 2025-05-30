@@ -24,6 +24,10 @@ main {
     background-color: rgb(242, 246, 253);
 }
 
+.flex {
+    display: flex;
+}
+
 .section {
     padding-top: 4rem;
 }
@@ -56,7 +60,9 @@ main {
     );
 }
 
-#principles img {
+#principles img,
+#practises img,
+#resources img {
     max-width: 100%;
     border-radius: 50%;
 }
@@ -64,7 +70,11 @@ main {
 /* Media Queries */
 
 @media screen and (min-width: 992px) {
-    .image {
+    .image-margin {
         margin-top: 2rem;
+    }
+
+    .image-first {
+        order: -1;
     }
 }
