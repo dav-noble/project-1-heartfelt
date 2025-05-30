@@ -71,6 +71,16 @@ main {
     border-radius: 50%;
 }
 
+.footer {
+    margin-top: auto;
+    background-color: rgba(60, 116, 165, 255);
+    color: white;
+}
+
+.footer i.bi {
+    color: white;
+}
+
 /* Media Queries */
 
 /* For large devices (laptops, 992px and up) */
