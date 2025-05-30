@@ -29,13 +29,29 @@ main {
 }
 
 .banner-left {
-    background-image: linear-gradient(to right, blue, rgb(242, 246, 253));
+    background-image: linear-gradient(
+        to right,
+        rgba(11, 126, 116, 255),
+        rgb(242, 246, 253)
+    );
     color: white;
     padding-left: 1rem;
 }
 
 .banner-right {
-    background-image: linear-gradient(to left, blue, rgb(242, 246, 253));
+    background-image: linear-gradient(
+        to left,
+        rgba(228, 129, 20, 255),
+        rgb(242, 246, 253)
+    );
     color: white;
     padding-right: 1rem;
+}
+
+#resources .banner-left {
+    background-image: linear-gradient(
+        to right,
+        rgba(79, 67, 125, 255),
+        rgb(242, 246, 253)
+    );
 }
