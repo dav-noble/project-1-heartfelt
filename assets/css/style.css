@@ -69,11 +69,14 @@ main {
 
 /* Media Queries */
 
+/* For large devices (laptops, 992px and up) */
 @media screen and (min-width: 992px) {
+    /* Provides a top margin to move image down from the banner */
     .image-margin {
         margin-top: 2rem;
     }
 
+    /* Places the image to the left of the text */
     .image-first {
         order: -1;
     }
