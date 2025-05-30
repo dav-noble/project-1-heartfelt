@@ -55,3 +55,16 @@ main {
         rgb(242, 246, 253)
     );
 }
+
+#principles img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+/* Media Queries */
+
+@media screen and (min-width: 992px) {
+    .image {
+        margin-top: 2rem;
+    }
+}
