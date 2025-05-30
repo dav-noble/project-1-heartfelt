@@ -22,6 +22,8 @@ Heartfelt provides visitors with information on diversity and inclusion in the w
 
 The hero image for the website was created using Microsoft Pilot.
 
+AI was used to resolve an issue with the footer text not being vertically aligned in the centre of the footer.
+
 ## Testing
 
 ## Deployment

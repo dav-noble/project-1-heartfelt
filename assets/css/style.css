@@ -71,14 +71,26 @@ main {
     border-radius: 50%;
 }
 
-.footer {
-    margin-top: auto;
+#contact {
     background-color: rgba(60, 116, 165, 255);
     color: white;
+    font-size: 1.5rem;
 }
 
-.footer i.bi {
+#contact .row {
+    min-height: 100px;
+}
+
+#contact .social-links i {
+    font-size: 2rem;
     color: white;
+    -webkit-transition: color 0.3s ease-in-out;
+    -o-transition: color 0.3s ease-in-out;
+    transition: color 0.3s ease-in-out;
+}
+
+#contact .social-links i:hover {
+    color: rgb(42, 59, 78);
 }
 
 /* Media Queries */
