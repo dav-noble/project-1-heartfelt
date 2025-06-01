@@ -1,4 +1,8 @@
+/* Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
 body {
+    font-family: "Quicksand", sans-serif;
     padding-top: 56px;
 }
 
@@ -76,6 +80,7 @@ main {
     background-color: rgb(242, 246, 253);
 }
 
+/* Footer Section */
 #contact {
     background-color: rgba(60, 116, 165, 255);
     color: white;
@@ -104,16 +109,40 @@ main {
 @media screen and (min-width: 992px) {
     /* Provides a top margin to move image to the centre of the text content */
     .image-margin {
-        margin-top: 10rem;
+        margin-top: 12rem;
     }
 
     #practises .image-margin {
-        margin-top: 13rem;
+        margin-top: 15rem;
+    }
+
+    #resources .image-margin {
+        margin-top: 5rem;
     }
 
     /* Places the image to the left of the text */
     .image-left {
         order: -1;
+    }
+
+    /* Resources Section */
+    #resources .content-center {
+        margin-top: 6rem;
+    }
+}
+
+/* For XL devices (laptops, 1200px and up) */
+@media screen and (min-width: 1200px) {
+    .image-margin {
+        margin-top: 9rem;
+    }
+
+    #practises .image-margin {
+        margin-top: 12rem;
+    }
+
+    #resources .image-margin {
+        margin-top: 4rem;
     }
 }
 
@@ -125,6 +154,10 @@ main {
     }
 
     #practises .image-margin {
-        margin-top: 7rem;
+        margin-top: 8rem;
+    }
+
+    #resources .content-center {
+        margin-top: 10rem;
     }
 }
