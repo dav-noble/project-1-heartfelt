@@ -99,11 +99,19 @@ main {
 @media screen and (min-width: 992px) {
     /* Provides a top margin to move image down from the banner */
     .image-margin {
-        margin-top: 2rem;
+        margin-top: 8rem;
     }
 
     /* Places the image to the left of the text */
-    .image-first {
+    .image-left {
         order: -1;
+    }
+}
+
+/* For XXL devices (desktops, 1400px and up)*/
+@media screen and (min-width: 1400px) {
+    /* Reduce top margin to ensure image stays central */
+    .image-margin {
+        margin-top: 4rem;
     }
 }
