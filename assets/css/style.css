@@ -80,6 +80,18 @@ main {
     background-color: rgb(242, 246, 253);
 }
 
+/* Resources section */
+
+.custom-button-outline {
+    border: 3px solid rgba(79, 67, 125, 255);
+    color: rgba(79, 67, 125, 255);
+}
+
+.custom-button-outline:hover {
+    background-color: rgba(79, 67, 125, 255);
+    color: white;
+}
+
 /* Footer Section */
 #contact {
     background-color: rgba(60, 116, 165, 255);
