@@ -6,6 +6,11 @@ body {
     padding-top: 56px;
 }
 
+#navbar {
+    background-color: rgba(60, 116, 165, 255);
+    color: white;
+}
+
 header {
     display: flex;
     justify-content: center;
