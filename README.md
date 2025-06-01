@@ -20,9 +20,11 @@ Heartfelt provides visitors with information on diversity and inclusion in the w
 
 ## Use of AI in this project
 
-The hero image for the website was created using Microsoft Pilot.
+All images on the website were generated using Microsoft Pilot.
 
 AI was used to resolve an issue with the footer text not being vertically aligned in the centre of the footer.
+
+The text content of the website was generated using prompts on Microsoft Pilot.
 
 ## Testing
 

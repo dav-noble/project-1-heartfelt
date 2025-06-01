@@ -71,6 +71,11 @@ main {
     border-radius: 50%;
 }
 
+/* Ensures list background colour matches the rest of the page */
+#practises li {
+    background-color: rgb(242, 246, 253);
+}
+
 #contact {
     background-color: rgba(60, 116, 165, 255);
     color: white;
@@ -97,9 +102,13 @@ main {
 
 /* For large devices (laptops, 992px and up) */
 @media screen and (min-width: 992px) {
-    /* Provides a top margin to move image down from the banner */
+    /* Provides a top margin to move image to the centre of the text content */
     .image-margin {
-        margin-top: 8rem;
+        margin-top: 10rem;
+    }
+
+    #practises .image-margin {
+        margin-top: 13rem;
     }
 
     /* Places the image to the left of the text */
@@ -112,6 +121,10 @@ main {
 @media screen and (min-width: 1400px) {
     /* Reduce top margin to ensure image stays central */
     .image-margin {
-        margin-top: 4rem;
+        margin-top: 6rem;
+    }
+
+    #practises .image-margin {
+        margin-top: 7rem;
     }
 }
