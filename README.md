@@ -8,13 +8,23 @@ Heartfelt provides visitors with information on diversity and inclusion in the w
 
 ## User Stories
 
+-   As a visitor interested in diversity and inclusion, I want to see a visually appealing hero section with a compelling message, so that I immediately grasp the purpose of the webpage.
+
+-   As a user seeking straightforward information about diversity and inclusion, I want the content divided into clearly defined sections, so that I can easily understand and digest key concepts.
+
+-   As a user looking for actionable guidance, I want to see a list of practical tips on promoting diversity and inclusion, so that I have clear steps to follow in my workplace or educational setting.
+
+-   As a user interested in exploring further, I want resource links styled as buttons, so that I can easily navigate to additional external materials on diversity and inclusion.
+
+-   As a site user, I can use the navbar to easily navigate around the website.
+
 ## Wireframes
 
-[Wireframe for mobile](/assets/images/mobile-wireframe.png)
+<a href="./assets/images/mobile-wireframe.png" target="_blank">Wireframe for mobile</a>
 
-[Wireframe for tablet](/assets/images/tablet-wireframe.png)
+<a href="./assets/images/tablet-wireframe.png" target="_blank">Wireframe for mobile</a>
 
-[Wireframe for desktop](/assets/images/desktop-wireframe.png)
+<a href="./assets/images/desktop-wireframe.png" target="_blank">Wireframe for mobile</a>
 
 ## Features
 
