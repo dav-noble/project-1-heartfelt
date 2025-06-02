@@ -24,9 +24,9 @@ Heartfelt provides visitors with information on diversity and inclusion in the w
 
 <a href="./assets/images/mobile-wireframe.png" target="_blank">Wireframe for mobile</a>
 
-<a href="./assets/images/tablet-wireframe.png" target="_blank">Wireframe for mobile</a>
+<a href="./assets/images/tablet-wireframe.png" target="_blank">Wireframe for tablet</a>
 
-<a href="./assets/images/desktop-wireframe.png" target="_blank">Wireframe for mobile</a>
+<a href="./assets/images/desktop-wireframe.png" target="_blank">Wireframe for desktop</a>
 
 ## Features
 
@@ -118,7 +118,7 @@ Performance was reduced by image size, resolved by using an image compression si
 
 Images not having "alt" attributes was flagged and quickly resolved.
 
-The sire did not have a meta description, reducing the SEO score, a short description was added resolving the issue.
+The site did not have a meta description, reducing the SEO score, a short description was added resolving the issue.
 
 The final lighthouse scores are as follows:
 
