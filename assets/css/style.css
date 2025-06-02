@@ -91,8 +91,6 @@ main {
     );
 }
 
-/* Resources section */
-
 .custom-button-outline {
     border: 3px solid rgba(79, 67, 125, 255);
     color: rgba(79, 67, 125, 255);
@@ -155,6 +153,7 @@ main {
 
 /* For XL devices (laptops, 1200px and up) */
 @media screen and (min-width: 1200px) {
+    /* Reduce top margin to ensure image stays central */
     .image-margin {
         margin-top: 9rem;
     }

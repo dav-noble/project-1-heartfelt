@@ -30,9 +30,15 @@ Heartfelt provides visitors with information on diversity and inclusion in the w
 
 ## Use of AI in this project
 
+**Image Generation**
+
 All images on the website were generated using Microsoft Pilot.
 
+**Code Generation**
+
 AI was used to resolve an issue with the footer text not being vertically aligned in the centre of the footer.
+
+**Content Generation**
 
 The text content of the website was generated using prompts on Microsoft Pilot.
 
